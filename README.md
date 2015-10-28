@@ -1,2 +1,2 @@
 # hello-world
-test description
+Hi Humans! Testing how this all works! :-)
